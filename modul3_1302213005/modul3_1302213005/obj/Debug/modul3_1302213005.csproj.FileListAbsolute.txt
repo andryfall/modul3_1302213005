@@ -1,0 +1,11 @@
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302213005\modul3_1302213005\modul3_1302213005\obj\Debug\modul3_1302213005.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302213005\modul3_1302213005\modul3_1302213005\obj\Debug\modul3_1302213005.csproj.SuggestedBindingRedirects.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302213005\modul3_1302213005\modul3_1302213005\obj\Debug\modul3_1302213005.Form1.resources
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302213005\modul3_1302213005\modul3_1302213005\obj\Debug\modul3_1302213005.Properties.Resources.resources
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302213005\modul3_1302213005\modul3_1302213005\obj\Debug\modul3_1302213005.csproj.GenerateResource.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302213005\modul3_1302213005\modul3_1302213005\obj\Debug\modul3_1302213005.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302213005\modul3_1302213005\modul3_1302213005\bin\Debug\modul3_1302213005.exe.config
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302213005\modul3_1302213005\modul3_1302213005\bin\Debug\modul3_1302213005.exe
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302213005\modul3_1302213005\modul3_1302213005\bin\Debug\modul3_1302213005.pdb
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302213005\modul3_1302213005\modul3_1302213005\obj\Debug\modul3_1302213005.exe
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302213005\modul3_1302213005\modul3_1302213005\obj\Debug\modul3_1302213005.pdb
